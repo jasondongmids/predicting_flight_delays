@@ -1,4 +1,4 @@
-# Team 3-3: Phase 3 Fine-Tuning - Predicting Flight Delays to Mitigate Potential Delays and Costs
+# Predicting Flight Delays to Mitigate Potential Delays and Costs
 
 ## Project Abstract
 
@@ -538,18 +538,7 @@ Based on our gap analysis we showed our model was consistent with the day of the
 
 If continuing to work on this project we would like to expand our data to plane and mechanical history next. If we had plane flight information such as total hours flow, hours since last routine maintenance, and number of unexpected maintenance events we could further improve our model and user experience.
 
-## Appendix
-
-
-#### Reference Code
-- [Data Prep/Processing](https://adb-4248444930383559.19.azuredatabricks.net/editor/notebooks/3061047499225699?o=4248444930383559#command/3061047499225700)
-- [Logistic Regression](https://adb-4248444930383559.19.azuredatabricks.net/editor/notebooks/2433832087580953?o=4248444930383559#command/2433832087580954)
-- [Decision Tree](https://adb-4248444930383559.19.azuredatabricks.net/editor/notebooks/57921511671814?o=4248444930383559#command/57921511671882)
-- [Random Forest](https://adb-4248444930383559.19.azuredatabricks.net/editor/notebooks/59813923263687?o=4248444930383559#command/57921511669995)
-- [Gradient Boosting](https://adb-4248444930383559.19.azuredatabricks.net/editor/notebooks/57921511663976?o=4248444930383559#command/57921511668549)
-- [Multilayer Perceptron (MLP) Neural Network (NN) and Distributed Deep Learning](https://adb-4248444930383559.19.azuredatabricks.net/editor/notebooks/2276882173346746?o=4248444930383559#command/2276882173346749)
-
-## Team Members
+# Team Members
 - Jason Dong
 - Nick Gasser
 - Sameer Karim
