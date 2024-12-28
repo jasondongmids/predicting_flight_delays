@@ -1,5 +1,7 @@
 # Predicting Flight Delays to Mitigate Potential Delays and Costs
 
+Read the full report here: ![Predicting Flight Delays.md](https://github.com/jasondongmids/mids_w261_final_project/blob/main/ref/delay_predictions_by_airline_company.png?raw=true)
+
 ## Project Abstract
 
 Airline On-Time Performance, defined as a flight arriving within 15 minutes of its scheduled arrival time, is a critical metric for airlines and regulators. Analysis of TranStats flight data from the US Department of Transportation (USDOT) reveals that 18% of flights were delayed by more than 15 minutes between 2015 and 2021. Delays incur substantial operational costs, especially with the USDOT’s ruling requiring automatic refunds for domestic flights delayed by three hours or more. To address this, our project focuses on predicting flight delays two hours before departure, with a primary goal of minimizing false negatives to preserve trust and prevent customer churn.
