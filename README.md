@@ -1,6 +1,6 @@
 # Predicting Flight Delays to Mitigate Potential Delays and Costs
 
-Read the full report here: ![Predicting Flight Delays.md](https://github.com/jasondongmids/mids_w261_final_project/blob/main/ref/delay_predictions_by_airline_company.png?raw=true)
+Read the full report here: ![Predicting Flight Delays.md](https://github.com/jasondongmids/predicting_flight_delays/blob/main/Predicting%20Flight%20Delays.md)
 
 ## Project Abstract
 
